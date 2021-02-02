@@ -2,6 +2,8 @@
 
 ***This repository deals with algorithms, techniques and projects that are learnt and implemented using PyImageSearch Blog.***
 
+***However the codes are modified for different applications and also the image processing steps used are different from original blog***
+
 ***The computer vision applications illustrated are towards medical applications such as chest x-ray, brain tumor, skin cancer, pneumonia, malaria diseases, Parkinson's***
 
 <h4 align='center'> 01-07 Feb 2021 week </h4>
