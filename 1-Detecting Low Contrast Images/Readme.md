@@ -1,4 +1,4 @@
-<h2 align='center'>Project Name : Detecting low contrast images with OpenCV, scikit-image, and Python </h2>
+<h2 align='center'>Project Name : Detecting low contrast images/videos with OpenCV, scikit-image, and Python </h2>
 
 **Introduction**
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -40,4 +40,16 @@ In this project, we will cover 2 aspects of low contrast images:
 <p align="center">
   <img width="450" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/1-Detecting%20Low%20Contrast%20Images/images/Image_t2.JPG">
   <img width="450" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/1-Detecting%20Low%20Contrast%20Images/images/Image_t1.JPG">
+</p> 
+
+
+**Detect Low Contrast Videos with Edge Detection**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- [x] In this project, we take an video of a playing card with low and high contrast lighting conditions and apply detection algorithm similar as statis image with only difference of using VideoCapture function to take the video as input ![[Code]](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/1-Detecting%20Low%20Contrast%20Images/3-detect-low-contrast-video.py)
+
+- [x] Output Result
+
+<p align="center">
+  <img width="500" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/1-Detecting%20Low%20Contrast%20Images/images/output_video.gif">
 </p> 
