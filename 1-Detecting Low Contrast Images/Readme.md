@@ -38,8 +38,8 @@ In this project, we will cover 2 aspects of low contrast images:
 - [x] Results:
 
 <p align="center">
-  <img width="450" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/1-Detecting%20Low%20Contrast%20Images/images/Image_t2.JPG">
-  <img width="450" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/1-Detecting%20Low%20Contrast%20Images/images/Image_t1.JPG">
+  <img width="600" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/1-Detecting%20Low%20Contrast%20Images/images/Image_t2.JPG">
+  <img width="600" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/1-Detecting%20Low%20Contrast%20Images/images/Image_t1.JPG">
 </p> 
 
 
