@@ -96,7 +96,7 @@ for (i,imagePath) in enumerate(imagePaths):
     color = (0,255,0)
 
     #to check if image is low contrast or not
-    if is_low_contrast(gray,fraction_threshold=0.25):
+    if is_low_contrast(gray,fraction_threshold=0.4):
         text = 'Low Contrast: YES'
         color = (0,0,255)
         copy_img = watershed(sure_fg,gray,sure_bg,image)
