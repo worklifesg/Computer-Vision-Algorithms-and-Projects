@@ -8,7 +8,7 @@
 
 -# | Project Name  | Tools, Framework | Proposed Date | Completion Date
 | ------------- | ------------- | ------------- | -------------- | ------------- | 
-| 1 | [Detecting low contrast images] | OpenCV, scikit-image | ![](https://img.shields.io/badge/2021-02/Feb-green)  |  |
+| 1 | ![Detecting low contrast images/videos](![](https://img.shields.io/badge/2021-02/Feb-green)) | OpenCV, scikit-image | ![](https://img.shields.io/badge/2021-02/Feb-green)  | ![](https://img.shields.io/badge/2021-02/Feb-orange)|
 | 2 | [Histogram Equalization and Adaptive Histogram Equalization (CLAHE)] | OpenCV | ![](https://img.shields.io/badge/2021-02/Feb-green)  |  |
 | 3 | [Generating, Detecting, Determining ArUco markers] | OpenCV | ![](https://img.shields.io/badge/2021-03/Feb-green)  |  |
 | 4 | [Siamese networks] | Keras, TensorFlow, and Deep Learning | ![](https://img.shields.io/badge/2021-04/Feb-green)  |  |
