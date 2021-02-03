@@ -26,6 +26,35 @@ The objective of this project is to improve the visualization (image enhancement
   * Computationally very time consuming and needs more power
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Images used for this project**
+
+<p align="center">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/2-Image%20Enhancement%20using%20Histogram%20Equalization/images/1_Chest_XRay.jpg">
+  <img width="230" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/2-Image%20Enhancement%20using%20Histogram%20Equalization/images/2_BrainTumor.jpg">
+  <img width="220" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/2-Image%20Enhancement%20using%20Histogram%20Equalization/images/3_HandSkeleton.jpg">
+</p> 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Histogram Equalization and CLAHE using OpenCV**
+
+In ![[simple program]](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/2-Image%20Enhancement%20using%20Histogram%20Equalization/1-histogram-equalization-and-CLAHE-opencv.py), we analyzed three medical images and enhance them using **Histogram Equalization** and **CLAHE**. In this program, we used in-built libraries available in OpenCV. The clip limit used in CLAHE is 40
+
+***Results***
+
+
+<p align="center">
+  <img width="800" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/2-Image%20Enhancement%20using%20Histogram%20Equalization/images/1_Chest_XRay_opencv.JPG">
+  
+  <img width="800" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/2-Image%20Enhancement%20using%20Histogram%20Equalization/images/2_BrainTumor_opencv.JPG">
+
+  <img width="800" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/2-Image%20Enhancement%20using%20Histogram%20Equalization/images/3_HandSkeleton_opencv.JPG">
+</p> 
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Credits
 
 ![UM, HEF, CLAHE - X-Ray Images Enhancement](https://github.com/asalmada/x-ray-images-enhancement)
