@@ -10,4 +10,8 @@ In neural networks, **"siamese networks"** are special class that contains two o
 Example |
 |----------|
 | **Detecting signature forgeries** - In general, we classify model to correctly classify signature based on their training using image classification networks. Here in **siamese networks**, we will use two images as an input from training dataset and ask the neural network if the signature were from the same person or not? |
-| ![Link](https://arxiv.org/abs/1707.02131) |
+
+![Reference](https://arxiv.org/abs/1707.02131) 
+<p align="center">
+  <img width="500" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/siamese_image_pairs_signet.png">
+ </p> 
