@@ -51,5 +51,62 @@ The logic behind making pairs is to put together images with same classes (i.e. 
   <img width="500" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/Image_Pairs.jpg">
  </p> 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Part B : Training Siamese Networks with keras, TensorFlow, and Deep Learning**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Next step is to build and train **siamese networks (subnetworks)** that has two inputs (either negative or positive pairs). The idea here is to find the similarity between two images that is computed using euclidean distance and using sigmoid function.
+
+The training process include different python scripts that are used to define essential parameter definitions that will be use while training siamese network. These include:
+
+  - [ ] **![config.py](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/config.py)** - . Paths, I/P image spatial dimensions, batch size, number of epochs
+  - [ ] **![siamese_network.py](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/siamese-network.py)** - CNN model using Keras, and TensorFlow
+  - [ ] **![utils.py](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/utils.py)** - functions related to building image pairs, computing euclidean distance, and plotting training measure history results
+  
+  - [ ] **![siamese-networks-training.ipynb](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/2_siamese_networks_training.ipynb)** - main training script that constitutes above 3 python scripts
+    * Load and read MNIST digit dataset (config.py)
+    * Build positive and negative pairs (utils.py)
+    * Build siamese network architecture (siamese_network.py)
+    * Train the siamese network
+    * Training History (Loss and Accuracy) - (utils.py)
+
+To run 100 epochs, either we need a GPU or TPU with high RAM. The main script is run on Google Colab (However due to certain reasons, the model was not training properly under GPU-HighRAM but worked well with TPU-HighRAM (a bit slower than GPU for images)).
+
+***Result***
+
+The model is saved as and the training history plot is given as:
+
+<p align="center">
+  <img width="500" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/plot.png">
+ </p> 
+
+The model obtained around 88% of accuracy on testing dataset.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Part C : Comparing images using Siamese Networks**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Once the Siamese network is trained, we can predict results for other input images (i.e. compare the imaes and evaluate the similarity between them.
+
+We have chosen certain images for test that will be compared and evaluaed using siamese network. The images are:
+
+<p align="center">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_01.png">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_02.png">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_03.png">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_04.png">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_05.png">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_06.png">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_07.png">
+ </p>
+<p align="center">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_08.png">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_09.png">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_10.png">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_11.png">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_12.png">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_13.png">
+ </p> 
 
