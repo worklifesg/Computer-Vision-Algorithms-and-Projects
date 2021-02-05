@@ -12,7 +12,7 @@
 | ------------- | ------------- | ------------- | -------------- | ------------- | 
 | 1 | ![Detecting low contrast images/videos](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/tree/main/1-Detecting%20Low%20Contrast%20Images) | OpenCV, scikit-image | ![](https://img.shields.io/badge/2021-02/Feb-green)  | ![](https://img.shields.io/badge/2021-02/Feb-orange)|
 | 2 | ![Image Enhancement (Histogram Equalization, CLAHE, HEF, UM)](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/tree/main/2-Image%20Enhancement%20using%20Histogram%20Equalization) | OpenCV, NumPy, SciPy | ![](https://img.shields.io/badge/2021-03/Feb-green)  | Partial Complete ![](https://img.shields.io/badge/2021-03/Feb-orange) |
-| 3 | [Siamese networks] | Keras, TensorFlow, and Deep Learning | ![](https://img.shields.io/badge/2021-04/05/Feb-green)  |  |
+| 3 | ![Siamese networks](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/tree/main/3-Siamese%20Networks) | Keras, TensorFlow, and Deep Learning | ![](https://img.shields.io/badge/2021-04/05/Feb-green)  | ![](https://img.shields.io/badge/2021-05/Feb-orange) |
 | 4 | [Detecting Parkinson’s Disease] | OpenCV, Computer Vision, and Spiral/Wave Test | ![](https://img.shields.io/badge/2021-05/Feb-green)  |  |
 | 5 | [Holistically-Nested Edge Detection] | OpenCV, Deep Learning | ![](https://img.shields.io/badge/2021-06/Feb-green)  |  |
 | 6 | [Image alignment and registration] | OpenCV | ![](https://img.shields.io/badge/2021-07/Feb-green)  |  |
