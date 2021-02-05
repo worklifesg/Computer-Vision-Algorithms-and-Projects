@@ -110,3 +110,23 @@ We have chosen certain images for test that will be compared and evaluaed using 
   <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/test_images/image_13.png">
  </p> 
 
+The output of the model is saved in ![[output]](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/output.zip) and used to load the model trained in Part B. 
+
+***Results:***
+
+
+<p align="center">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/prediction.png">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/prediction2.png">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/prediction3.png">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/prediction4.png">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/prediction5.png">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/prediction6.png">
+ </p>
+<p align="center">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/prediction7.png">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/prediction8.png">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/prediction9.png">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/prediction10.png">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/blob/main/3-Siamese%20Networks/images/prediction11.png">
+ </p> 
