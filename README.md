@@ -20,16 +20,16 @@
 
 -# | Project Name  | Tools, Framework | Proposed Date | Completion Date
 | ------------- | ------------- | ------------- | -------------- | ------------- | 
-| 1 | [Fine-tuning ResNet with Keras, TensorFlow, and Deep Learning] | Keras, ResNet50  | ![](https://img.shields.io/badge/2021-08/09/Feb-green)  |  |
-| 2 | [ImageNet: VGGNet, ResNet, Inception, and Xception with Keras] | OpenCV, Keras,ResNet50, VGG16, VGG19, InceptionV3, Xception | ![](https://img.shields.io/badge/2021-10/11/Feb-green) |  |
-| 3 | [OCR: Handwriting recognition with OpenCV, Keras, and TensorFlow] | Keras, RestNet50 | ![](https://img.shields.io/badge/2021-12/13/Feb-green)  |  |
-| 4 | [Deep Learning and Medical Image Analysis with Keras] | Keras, ResNet50 | ![](https://img.shields.io/badge/2021-14/Feb-green)  |  |
+| 6 | [Fine-tuning ResNet with Keras, TensorFlow, and Deep Learning] | Keras, ResNet50  | ![](https://img.shields.io/badge/2021-08/09/Feb-green)  |  |
+| 7 | [ImageNet: VGGNet, ResNet, Inception, and Xception with Keras] | OpenCV, Keras,ResNet50, VGG16, VGG19, InceptionV3, Xception | ![](https://img.shields.io/badge/2021-10/11/Feb-green) |  |
+| 8 | [OCR: Handwriting recognition with OpenCV, Keras, and TensorFlow] | Keras, RestNet50 | ![](https://img.shields.io/badge/2021-12/13/Feb-green)  |  |
+| 9 | [Deep Learning and Medical Image Analysis with Keras] | Keras, ResNet50 | ![](https://img.shields.io/badge/2021-14/Feb-green)  |  |
 
 <h4 align='center'> 15-21 Feb 2021 week (Region based CNN) </h4>
 
 -# | Project Name  | Tools, Framework | Proposed Date | Completion Date
 | ------------- | ------------- | ------------- | -------------- | ------------- | 
-| 1 | [Turning any CNN image classifier into an object detector with Keras, TensorFlow, and OpenCV] | OpenCV, Keras | ![](https://img.shields.io/badge/2021-15/16/Feb-green)  |  |
-| 2 | [OpenCV Selective Search for Object Detection] |  OpenCV, Keras  | ![](https://img.shields.io/badge/2021-17/18/Feb-green)  |  |
-| 3 | [Region proposal object detection with OpenCV, Keras, and TensorFlow] | Keras, ResNet50 | ![](https://img.shields.io/badge/2021-19/20/Feb-green)  |  |
-| 4 | [R-CNN object detection with Keras, TensorFlow, and Deep Learning] | OpenCV, Keras, ResNet50 | ![](https://img.shields.io/badge/2021-21/Feb-green)  |  |
+| 10 | [Turning any CNN image classifier into an object detector with Keras, TensorFlow, and OpenCV] | OpenCV, Keras | ![](https://img.shields.io/badge/2021-15/16/Feb-green)  |  |
+| 11 | [OpenCV Selective Search for Object Detection] |  OpenCV, Keras  | ![](https://img.shields.io/badge/2021-17/18/Feb-green)  |  |
+| 12 | [Region proposal object detection with OpenCV, Keras, and TensorFlow] | Keras, ResNet50 | ![](https://img.shields.io/badge/2021-19/20/Feb-green)  |  |
+| 13 | [R-CNN object detection with Keras, TensorFlow, and Deep Learning] | OpenCV, Keras, ResNet50 | ![](https://img.shields.io/badge/2021-21/Feb-green)  |  |
