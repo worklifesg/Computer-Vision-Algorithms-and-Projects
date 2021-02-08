@@ -14,7 +14,7 @@
 | 2 | ![Image Enhancement (Histogram Equalization, CLAHE, HEF, UM)](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/tree/main/2-Image%20Enhancement%20using%20Histogram%20Equalization) | OpenCV, NumPy, SciPy | ![](https://img.shields.io/badge/2021-03/Feb-green)  | Partial Complete ![](https://img.shields.io/badge/2021-03/Feb-orange) |
 | 3 | ![Siamese networks](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/tree/main/3-Siamese%20Networks) | Keras, TensorFlow, and Deep Learning | ![](https://img.shields.io/badge/2021-04/05/Feb-green)  | ![](https://img.shields.io/badge/2021-05/Feb-orange) |
 | 4 | ![Detecting Parkinson’s Disease](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/tree/main/4-Detecting%20Parkinson%20Disease) | OpenCV, Computer Vision, and Spiral/Wave Test | ![](https://img.shields.io/badge/2021-06/Feb-green)  | ![](https://img.shields.io/badge/2021-06/Feb-orange) |
-| 5 | [Image alignment and registration] | OpenCV | ![](https://img.shields.io/badge/2021-07/Feb-green)  |  |
+| 5 | ![Image alignment and registration](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/tree/main/5-Image%20alignment%20and%20registration) | OpenCV | ![](https://img.shields.io/badge/2021-07/Feb-green)  | ![](https://img.shields.io/badge/2021-08/Feb-orange)  |
 
 <h4 align='center'> 08-14 Feb 2021 week (Deep Learning Architectures)</h4>
 
