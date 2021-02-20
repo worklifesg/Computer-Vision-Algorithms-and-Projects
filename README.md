@@ -21,6 +21,6 @@
 -# | Project Name  | Tools, Framework | Proposed Date | Completion Date
 | ------------- | ------------- | ------------- | -------------- | ------------- | 
 | 6 | ![Fine-tuning ResNet with Keras, TensorFlow, and Deep Learning](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/tree/main/6-Fine-tuning%20ResNet%20with%20Keras%2C%20TensorFlow%2C%20and%20Deep%20Learning) | Keras, ResNet50  | ![](https://img.shields.io/badge/2021-08/09/Feb-green)  | ![](https://img.shields.io/badge/2021-09/Feb-orange)  |
-| 7 | [ImageNet: VGGNet, ResNet, Inception, and Xception with Keras] | OpenCV, Keras,ResNet50, VGG16, VGG19, InceptionV3, Xception | ![](https://img.shields.io/badge/2021-15/16/Feb-green) |  |
+| 7 | ![ImageNet: VGGNet, ResNet, Inception, and Xception with Keras](https://github.com/worklifesg/Computer-Vision-Algorithms-and-Projects/tree/main/7-ImageNet%20with%20VGGNet%2C%20ResNet%2C%20Inception%2C%20Xception) | OpenCV, Keras,ResNet50, VGG16, VGG19, InceptionV3, Xception | ![](https://img.shields.io/badge/2021-15/16/Feb-green) |  ![](https://img.shields.io/badge/2021-19/Feb-orange) |
 | 8 | [OCR: Handwriting recognition with OpenCV, Keras, and TensorFlow] | Keras, RestNet50 | ![](https://img.shields.io/badge/2021-17/18/Feb-green)  |  |
 | 9 | [Deep Learning and Medical Image Analysis with Keras] | Keras, ResNet50 | ![](https://img.shields.io/badge/2021-19/20/Feb-green)  |  |
